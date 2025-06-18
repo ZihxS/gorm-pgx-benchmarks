@@ -53,7 +53,7 @@ pgxpool:     106403 ns/op       306 B/op         8 allocs/op
 |    | Total Memory Allocations | 219.000.000 | 51.300.000 |
 | **Insert** | Total Bytes (MB) | 614 MB | 29 MB |
 |    | Total Memory Allocations | 9.700.000 | 800.000 |
-| **Insert Multiple****(100 Rows)** | Total Bytes (MB) | 25.359 MB (25.36 GB) | 4.943 MB (4.94 GB) |
+| **Insert Multiple** **(100 Rows)** | Total Bytes (MB) | 25.359 MB (25.36 GB) | 4.943 MB (4.94 GB) |
 |    | Total Memory Allocations | 521.600.000 | 3.900.000 |
 | **Update** | Total Bytes (MB) | 582.90 MB | 30.60 MB |
 |    | Total Memory Allocations | 8.900.000 | 800.000 |
