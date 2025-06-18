@@ -1,4 +1,4 @@
-# GORM vs PGX Benchmarks
+# GORM vs PGX (pgxpool) Benchmarks
 Advanced benchmarks for GORM & PGX. Originally forked from [orm-benchmark](https://github.com/efectn/go-orm-benchmarks).
 
 ### Results
